@@ -5,7 +5,7 @@ const repeatString = function(string, num) {
     }
     return result;
 };
-repeatString("hi", 1);
+repeatString("bye", 0);
 
 // Do not edit below this line
 module.exports = repeatString;
