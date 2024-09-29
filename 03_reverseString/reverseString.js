@@ -8,7 +8,7 @@ for (let i = 0; i < arrayRev.length; i++) {
 }
 return result;
 };
-reverseString("123! abc! Hello, Odinite.");
+reverseString("");
 
 // Do not edit below this line
 module.exports = reverseString;
